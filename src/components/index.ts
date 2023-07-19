@@ -1,6 +1,3 @@
-export { Button } from "./button";
-export { Cards } from "./cards";
-export { Footer } from "./footer";
-export { Header } from "./header";
-export { Logo } from "./logo";
-export { Main } from "./main";
+export {SelectColumnFilter} from "./filters"
+export {App} from "./app"
+export {AppTable} from "./table"       
